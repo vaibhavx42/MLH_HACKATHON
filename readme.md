@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="text-align: center;">Portfolio Generator</h1>
+  <h1 style="text-align: center;">StellarFolio</h1>
 </div>
 
 
