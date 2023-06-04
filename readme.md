@@ -66,6 +66,7 @@ You can check out a live demo of the Portfolio Generator [here](https://example.
 Do consider looking at other paradigms of this documentation
 
   - [License used](/LICENSE.txt)
+  - [Code Of Conduct](/CodeofConduct.md)
                        
 <p align="right">(<a href="./Description">back to top</a>)</p>  
                       
