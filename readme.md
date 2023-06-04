@@ -21,7 +21,7 @@
 </p>
 
 
-Welcome to our MLH Hackathon submission, Portfolio Generator! This project is a web application built with Flask, HTML, CSS, and JavaScript, aimed at helping you create your personal portfolio quickly and easily.
+Welcome to our MLH Hackathon submission, SteallarFolio a Portfolio Generator! This project is a web application built with Flask, HTML, CSS, and JavaScript, aimed at helping you create your personal portfolio quickly and easily.
 
 ## Table of Contents
 
