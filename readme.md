@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/110530263/236652398-3911a400-9534-4d49-9c0d-c694100a1808.jpg" width="400" />
+  <img src="https://github.com/vaibhavx42/MLH_HACKATHON/assets/110530263/fed024f1-a9de-44ca-b91b-842f9f3233ef" width="400" />
 </p>
 <div align="center">
   <a href="https://mlh-hacks.vercel.app/" target="_blank">
