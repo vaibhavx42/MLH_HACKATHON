@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="text-align: center;">Portfolio Generator</h1>
+  <h1 style="text-align: center;">StellarFolio</h1>
 </div>
 
 
@@ -21,7 +21,7 @@
 </p>
 
 
-Welcome to our MLH Hackathon submission, Portfolio Generator! This project is a web application built with Flask, HTML, CSS, and JavaScript, aimed at helping you create your personal portfolio quickly and easily.
+Welcome to our MLH Hackathon submission, SteallarFolio a Portfolio Generator! This project is a web application built with Flask, HTML, CSS, and JavaScript, aimed at helping you create your personal portfolio quickly and easily.
 
 ## Table of Contents
 
@@ -49,7 +49,12 @@ Welcome to our MLH Hackathon submission, Portfolio Generator! This project is a 
 
 You can check out a live demo of the Portfolio Generator [here](https://example.com).
 
+## Technologies Used
 
+- HTML : [Refer it here](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- CSS : [Used it for styling Click to read documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- JAVASCRIPT : [Please Refer to Official Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Flask : [Please Refer to Official Documentation](Please Refer to Official Documentation)
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -61,6 +66,7 @@ You can check out a live demo of the Portfolio Generator [here](https://example.
 Do consider looking at other paradigms of this documentation
 
   - [License used](/LICENSE.txt)
+  - [Code Of Conduct](/CodeofConduct.md)
                        
 <p align="right">(<a href="./Description">back to top</a>)</p>  
                       
