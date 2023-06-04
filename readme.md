@@ -28,14 +28,16 @@ Welcome to our MLH Hackathon submission, Portfolio Generator! This project is a 
 - [Description](#Description)
 - [Features](#features)
 - [Demo](#demo)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [ACKNOWLEDGMENTS](#ACKNOWLEDGMENTS)
+- [Miscellaneous](#Miscellaneous)
 
 ## Description
 
-The Portfolio Generator is designed to simplify the process of creating a personalized portfolio website. Instead of spending hours coding and designing your portfolio from scratch, our application allows you to generate a professional-looking portfolio by simply providing your name, bio data, and a little bit about yourself.
+- The Portfolio Generator is designed to simplify the process of creating a personalized portfolio website. 
+- Instead of spending hours coding and designing your portfolio from scratch, our application allows you to generate a professional-looking portfolio by simply providing your name, bio data, and a little bit about      yourself.
 
 ## Features
 
@@ -43,7 +45,7 @@ The Portfolio Generator is designed to simplify the process of creating a person
 - **Quick Setup:** With just a few inputs, you can have your portfolio ready in no time.
 - **Customization Options:** The Portfolio Generator allows you to customize the design and layout of your portfolio to suit your personal style.
 
-## Demo
+## Usage
 
 You can check out a live demo of the Portfolio Generator [here](https://example.com).
 
