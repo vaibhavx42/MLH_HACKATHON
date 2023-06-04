@@ -56,12 +56,32 @@ You can check out a live demo of the Portfolio Generator [here](https://example.
 ## Acknowledgments
 
 * [Choose an Open Source License](https://choosealicense.com)
-<p align="right">(<a href="./Description">back to top</a>)</p>  
 
 ## Miscellaneous
 Do consider looking at other paradigms of this documentation
 
   - [License used](/LICENSE.txt)
-                                         
-                                         
+                       
+<p align="right">(<a href="./Description">back to top</a>)</p>  
+                      
+## Team Contact
+<p>
+📫 Yash Mistry -
+<a href="https://www.linkedin.com/in/yash-mistry-98493a225/">
+  <img align="center" alt="yash linkedin" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a> 
+<a href="mailto:yash.mistry.g43@gmail.com">
+  <img align="center" alt="yash's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
+</a> 
+</p>
+
+📫 Vaibhav Bhardwaj -
+<a href="https://www.linkedin.com/in/bhardwajvaibhav42">
+  <img align="center" alt="yash linkedin" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a> 
+<a href="mailto:bhardwajvaibhav186@gmail.com">
+  <img align="center" alt="yash's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
+</a> 
+</p>                                         
+                         
                                          
