@@ -49,7 +49,12 @@ Welcome to our MLH Hackathon submission, Portfolio Generator! This project is a 
 
 You can check out a live demo of the Portfolio Generator [here](https://example.com).
 
+## Technologies Used
 
+- HTML : [Refer it here](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- CSS : [Used it for styling Click to read documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- JAVASCRIPT : [Please Refer to Official Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Flask : [Please Refer to Official Documentation]([Please Refer to Official Documentation)
 
 
 <!-- ACKNOWLEDGMENTS -->
